@@ -1,0 +1,21 @@
+﻿Build started 12/17/2013 10:10:23 PM.
+     1>Project "C:\Users\mahfuzul\Desktop\CSC330-Lab4\CSC330-Lab4\CSC330-Lab4.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\CSC330-Lab4.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\CSC330-Lab4.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt "CSC330-Lab4.cpp" "CSC330-Lab4imp.cpp" /clr:nostdlib 
+         CSC330-Lab4.cpp
+     1>c:\users\mahfuzul\desktop\csc330-lab4\csc330-lab4\Form1.h(287): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mahfuzul\desktop\csc330-lab4\csc330-lab4\Form1.h(288): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mahfuzul\desktop\csc330-lab4\csc330-lab4\Form1.h(289): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+         CSC330-Lab4imp.cpp
+     1>CSC330-Lab4imp.cpp(74): fatal error C1075: end of file found before the left brace '{' at 'CSC330-Lab4imp.cpp(50)' was matched
+         Generating Code...
+     1>Done Building Project "C:\Users\mahfuzul\Desktop\CSC330-Lab4\CSC330-Lab4\CSC330-Lab4.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.69
